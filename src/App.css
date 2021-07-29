@@ -1,0 +1,39 @@
+body{
+  background: linear-gradient(to right, rgb(95, 138, 233), rgb(116, 110, 194));
+}
+
+.main_div {
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+  background-color: white;
+  border: 1px solid black;
+  height: 30px;
+  padding: 8px;
+  margin-left: 40px;
+}
+
+input {
+  border: 1px solid black;
+  width: 55vw;
+  height: 20px;
+  padding:8px;
+}
+
+
+button:hover {
+  background-color: rgb(78, 167, 78);
+}
+
+
+.but:hover{
+  background-color: rgb(238, 60, 60);
+}
+
+li{
+  color: yellow;
+  font-weight: bold;
+}
